@@ -11,7 +11,7 @@
 ![edit](https://i.imgur.com/a5W2fIi.png)
 When you are done it is OK to commit directly to the master branch:  
 ![commit](https://i.imgur.com/OZCJrTc.png)
-1. Publish the repo with [github pages](https://pages.github.com/) (on the repo Settings tab). The theme has already been set to Hacker for you.  
+1. Publish the repo with [github pages](https://pages.github.com/) (on the repo Settings tab). The theme has already been set to Midnight for you.  
 ![publish](https://i.imgur.com/VNl0Tnx.png)  
 Make a note of the link to your space.
 1. If you are familiar with pull requests, fork [Lexinomicon](https://github.com/ulex-opensource/Lexinomicon) to your own account and add your own player-space to the [Player roster](https://github.com/ulex-opensource/Lexinomicon/Roles/Player), otherwise ask a current player to do so on your behalf.
