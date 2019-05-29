@@ -1,4 +1,4 @@
-(To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
+(To join [Lexinomicon](https://ulex-opensource.github.io/Lexinomicon/) see [Getting Started](Getting-Started.md).)
 
 # Name (@github_id)
 
@@ -16,8 +16,8 @@ optional bio
 * [linkedin](https://www.linkedin.com/in/linkedin_id)
 
 ## Roles
-* [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
-  * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
+* [Lexinomicon](https://ulex-opensource.github.io/Lexinomicon/)
+  * [Player](https://ulex-opensource.github.io/Lexinomicon/Roles/Player)
   
 ## Achievements
 TBD
